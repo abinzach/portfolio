@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "JavaScript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/react.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Vue",
+      "image": {
+        "src": "../../images/vue.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Java",
+      "image": {
+        "src": "../../images/java.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Figma",
+      "image": {
+        "src": "../../images/figma.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AutoCAD",
+      "image": {
+        "src": "../../images/autocad.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "SketchUp",
+      "image": {
+        "src": "../../images/sketchup.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Enscape",
+      "image": {
+        "src": "../../images/enscape.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ View More",
+    "initiallyShownInterests": 5
+  }
+}

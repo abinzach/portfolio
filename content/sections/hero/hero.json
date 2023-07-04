@@ -1,0 +1,22 @@
+{
+  "intro": "DEVELOPER. DESIGNER. INNOVATOR.",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Abin Zacharia",
+  "subtitle": {
+    "prefix": "Building the web with an ",
+    "highlight": "architect's eye",
+    "suffix": "."
+  },
+  "description": "Crafting robust code with an eye for design, I engineer digital experiences that seamlessly blend functionality and aesthetics.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": false
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Abin Zacharia Portfolio",
+    "titleTemplate": "%s · Portfolio ",
+    "description": "A developer portfolio.",
+    "author": "Abin Zacharia",
+    "avatar": "../content/images/code.svg",
+    "bio": "The opinions expressed in this blog are solely personal opinions based on my own experiences and research.The purpose of this blog is to share my personal insights and recommendations with readers who may find them helpful in their programming journey. It is important to note that individual learning experiences may vary, and what works for one person may not work for another. Therefore, I encourage readers to explore a variety of resources, platforms, and learning methods to find what suits their learning style and goals best.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/abinzach",
+      "medium": "https://medium.com/@abinzacharia1998",
+      "linkedin": "https://www.linkedin.com/in/abin-zacharia-222150139",
+      "mail": "mailto:abinzacharia1998@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "< portfolio />" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

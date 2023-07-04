@@ -1,0 +1,13 @@
+{
+  "name": "Abin Kurian Zacharia",
+  "email": "abinzacharia1998@gmail.com",
+  "description": "Feel free to connect!",
+  "image": {
+    "src": "../../images/icons8-user-96.png",
+    "alt": "Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
