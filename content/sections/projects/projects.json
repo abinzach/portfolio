@@ -3,7 +3,7 @@
     {
       "visible": true,
       "category": "Weather App",
-      "title": "< WEATHER />",
+      "title": "< weather />",
       "description": "The Weather App is a user-friendly and visually appealing web application that provides real-time weather information for any location worldwide. With its intuitive interface and comprehensive features, users can easily check the current weather conditions, temperature, humidity, wind speed, and more. The app utilizes the WeatherAPI to fetch accurate and up-to-date weather data, ensuring reliable information at all times.",
       "tags": ["Vanilla JavaScript"],
       "image": {
@@ -24,9 +24,9 @@
     },
     {
       "visible": true,
-      "category": "vocabulary app",
+      "category": "Vocabulary / Language",
       "title": "Verba",
-      "description": "Verba is a captivating vocabulary app born out of a unique story. It was originally developed as a heartfelt project for a close friend who was preparing for the GRE exam. Recognizing the importance of a strong vocabulary in acing the verbal section, this app was meticulously crafted to provide an engaging and effective tool for mastering words. Dive into a world of words, discover their meanings, and elevate your language skills with Verba, the perfect companion for anyone seeking to enhance their vocabulary prowess.",
+      "description": "Verba is a captivating vocabulary app born out of a unique story. It was originally developed as a heartfelt project for a close friend who was preparing for the GRE exam. Recognizing the importance of a strong vocabulary in acing the verbal section, this app was meticulously crafted to provide an engaging and effective tool for mastering words. ",
       "tags": ["React"],
       "image": {
         "src": "../../images/verba.jpg",
@@ -46,7 +46,7 @@
     },
     {
       "visible": true,
-      "category": "Twitter Clone",
+      "category": "Social Media",
       "title": "Twitty",
       "description": "Introducing the Quasar-powered Twitter clone, a minimalist social platform that allows users to post and share tweets effortlessly. Built with a clean and intuitive interface, this clone focuses on the core functionality of composing and adding tweets. Experience the simplicity of sharing your thoughts and ideas with the world in a seamless and user-friendly manner. Join now and start tweeting with ease!",
       "tags": ["Vue", "Quasar"],
@@ -63,6 +63,50 @@
         {
           "type": "external",
           "url": "https://twitty-blu.vercel.app/#/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Movie Streaming",
+      "title": "Notflix",
+      "description": "Notflix is a streaming service web application where users can explore and enjoy a wide range of movies and shows. Users can sign up, log in, save their favorite shows, and manage their saved content.",
+      "tags": ["React","Firebase","Tailwind CSS"],
+      "image": {
+        "src": "../../images/notflix.png",
+        "alt": "Notflix Preview",
+        "linkTo": "https://notflix-8cd56.web.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/abinzach/notflix"
+        },
+        {
+          "type": "external",
+          "url": "https://notflix-8cd56.web.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Food Delivery",
+      "title": "Chwiggy",
+      "description": "Chwiggy is a food ordering app built using React, Redux, Formik, and Toast. It allows users to browse restaurants, explore food items, add items to the cart, and proceed to checkout.",
+      "tags": ["React","Redux"],
+      "image": {
+        "src": "../../images/chwiggy.png",
+        "alt": "Chwiggy Preview",
+        "linkTo": "https://chwiggy.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/abinzach/Chwiggy"
+        },
+        {
+          "type": "external",
+          "url": "https://chwiggy.vercel.app/"
         }
       ]
     }
