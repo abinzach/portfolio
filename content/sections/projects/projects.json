@@ -109,6 +109,28 @@
           "url": "https://chwiggy.vercel.app/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "Architecture Firm",
+      "title": "walld",
+      "description": "The company website for walld, an innovative architecture firm based in India.",
+      "tags": ["React","Three js"],
+      "image": {
+        "src": "../../images/walld.png",
+        "alt": "walld Preview",
+        "linkTo": "https://walld.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/abinzach/walld"
+        },
+        {
+          "type": "external",
+          "url": "https://walld.vercel.app/"
+        }
+      ]
     }
   ],
   "button": {
