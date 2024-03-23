@@ -1,5 +1,26 @@
 {
-  "projects": [
+  "projects": [ {
+    "visible": true,
+    "category": "AI Chat Assistant",
+    "title": "Quickie",
+    "description": "A lightning fast AI Chat assistant built with GROQ API",
+    "tags": ["React","Flask","LangChain"],
+    "image": {
+      "src": "../../images/quickie.png",
+      "alt": "quickie Preview",
+      "linkTo": "https://quickie0.vercel.app/"
+    },
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/quickie"
+      },
+      {
+        "type": "external",
+        "url": "https://quickie0.vercel.app/"
+      }
+    ]
+  },
     {
       "visible": true,
       "category": "Architecture Firm",
