@@ -13,11 +13,11 @@
     "links": [
       {
         "type": "github",
-        "url": "https://github.com/quickie"
+        "url": "https://github.com/abinzach"
       },
       {
         "type": "external",
-        "url": "https://quickie0.vercel.app/"
+        "url": "https://smartsearch-ai.vercel.app/"
       }
     ]
   },
@@ -35,11 +35,11 @@
     "links": [
       {
         "type": "github",
-        "url": "https://github.com/quickie"
+        "url": "https://github.com/abinzach"
       },
       {
         "type": "external",
-        "url": "https://quickie0.vercel.app/"
+        "url": "https://aiq-ai.vercel.app/"
       }
     ]
   },
@@ -57,7 +57,7 @@
     "links": [
       {
         "type": "github",
-        "url": "https://github.com/quickie"
+        "url": "https://github.com/abinzach"
       },
       {
         "type": "external",
@@ -74,16 +74,16 @@
     "image": {
       "src": "../../images/devresume.png",
       "alt": "developer resume review Preview",
-      "linkTo": "https://quickie0.vercel.app/"
+      "linkTo": "https://www.developerresumereview.com/"
     },
     "links": [
       {
         "type": "github",
-        "url": "https://www.developerresumereview.com/"
+        "url": "https://github.com/abinzach"
       },
       {
         "type": "external",
-        "url": "https://quickie0.vercel.app/"
+        "url": "https://www.developerresumereview.com/"
       }
     ]
   },
@@ -101,7 +101,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/anla"
+          "url": "https://github.com/abinzach"
         },
         {
           "type": "external",
@@ -127,7 +127,7 @@
         },
         {
           "type": "external",
-          "url": ""
+          "url": "https://wowlyx.vercel.app/"
         }
       ]
     },{
