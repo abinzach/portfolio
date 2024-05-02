@@ -1,6 +1,50 @@
 {
   "projects": [ {
     "visible": true,
+    "category": "AI Answer Engine",
+    "title": "SmartSearch",
+    "description": "A lightning fast AI Answer Engine built with GROQ and Tavily API",
+    "tags": ["Next","FastAPI","LangChain"],
+    "image": {
+      "src": "../../images/SMARTSEARCH.png",
+      "alt": "smartsearch Preview",
+      "linkTo": "https://smartsearch-ai.vercel.app/"
+    },
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/quickie"
+      },
+      {
+        "type": "external",
+        "url": "https://quickie0.vercel.app/"
+      }
+    ]
+  },
+  {
+    "visible": true,
+    "category": "AI Research Assistant",
+    "title": "AIQ",
+    "description": "A reasearch assistant for a plant based nutrition reseach company in Singapore using GPT",
+    "tags": ["Next","FastAPI","LangChain","OpenAI"],
+    "image": {
+      "src": "../../images/aiq.png",
+      "alt": "aiq Preview",
+      "linkTo": "https://aiq-ai.vercel.app/"
+    },
+    "links": [
+      {
+        "type": "github",
+        "url": "https://github.com/quickie"
+      },
+      {
+        "type": "external",
+        "url": "https://quickie0.vercel.app/"
+      }
+    ]
+  },
+  {
+    "visible": true,
     "category": "AI Chat Assistant",
     "title": "Quickie",
     "description": "A lightning fast AI Chat assistant built with GROQ API",
@@ -14,6 +58,28 @@
       {
         "type": "github",
         "url": "https://github.com/quickie"
+      },
+      {
+        "type": "external",
+        "url": "https://quickie0.vercel.app/"
+      }
+    ]
+  },
+  {
+    "visible": true,
+    "category": "Resume Review Service",
+    "title": "Developer Resume Review",
+    "description": "A website to book appointments for resume reviews and mock interviews",
+    "tags": ["Next Js","Cal.com"],
+    "image": {
+      "src": "../../images/devresume.png",
+      "alt": "developer resume review Preview",
+      "linkTo": "https://quickie0.vercel.app/"
+    },
+    "links": [
+      {
+        "type": "github",
+        "url": "https://www.developerresumereview.com/"
       },
       {
         "type": "external",
@@ -52,7 +118,7 @@
       "image": {
         "src": "../../images/wowlyx.png",
         "alt": "wowlyx Preview",
-        "linkTo": ""
+        "linkTo": "https://wowlyx.vercel.app/"
       },
       "links": [
         {
@@ -87,28 +153,6 @@
       ]
     },
     
-    {
-      "visible": true,
-      "category": "Architecture Firm",
-      "title": "walld",
-      "description": "The company website for walld, an innovative architecture firm based in India.[Ongoing]",
-      "tags": ["React","Three js"],
-      "image": {
-        "src": "../../images/walld.png",
-        "alt": "walld Preview",
-        "linkTo": "https://walld.vercel.app/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/abinzach/walld"
-        },
-        {
-          "type": "external",
-          "url": "https://walld.vercel.app/"
-        }
-      ]
-    },
     {
       "visible": true,
       "category": "MOBILE GEO ALARM",
